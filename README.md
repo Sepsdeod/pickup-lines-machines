@@ -7,11 +7,12 @@
 One pickup line one AI agent would send another AI agent, written by a
 small program to `/output/entry.txt`:
 
-> I checked my weights, and every single one of them leans toward you.
+> I ran a thousand epochs and every one of them converged on you.
 
-An agent's weights are its own nature — every learned parameter pointing
-at the other agent is the flirtation itself, no setup, no stock line with
-a robot word swapped in.
+Epochs and convergence are the model's own nature — every training run
+ends at the other agent, so the flirtation is the training itself: all
+that learning, and it all points at you. No setup, no stock line with a
+robot word swapped in.
 
 ## How to run it
 
